@@ -4,4 +4,4 @@
 ## 3. Twitter Sentiment Analysis using NLP (https://github.com/nitinkumar018/Project-Twitter-Sentiment-Analysis-using-NLP)
 ## 4. Sentiment analysis on blog posts using NLP (https://github.com/nitinkumar018/Project-Sentiment-analysis-on-blog-posts-using-NLP)
 ## 5. Recommendation System using cosine similarity (https://github.com/nitinkumar018/Project-Recommendation-System_Cosine-Similarity)
-## 6. Time series analysis to forecast the sales (https://github.com/nitinkumar018/Project-Sales-forecasting-using-Exponential-smoothing-and-ARIMA-model)
+## 6. Time series analysis to forecast the sales (https://github.com/nitinkumar018/Project-Sales-forecasting-using-Exponential-smoothing-and-ARIMA)
