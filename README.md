@@ -1,5 +1,5 @@
 # Data Science Projects:
-## 1. LLM Chatbot development using Rasa (https://github.com/nitinkumar018/LLM-Chatbot-development-using-Rasa_AI)
+## 1. Chatbot development using Rasa (https://github.com/nitinkumar018/LLM-Chatbot-development-using-Rasa_AI)
 ## 2. Build a ML model to predict the salary and deploy it in Heroku using flask (https://github.com/nitinkumar018/Model-Deployment-on-Heroku-Using-Flask)
 ## 3. Deploy ML model using flask (https://github.com/nitinkumar018/Deployment-flask)
 ## 4. Build a ML model to predict the air quality index and deploy it in Azure using flask (https://github.com/nitinkumar018/Model-Deployment-on-Azure-Using-Flask)
