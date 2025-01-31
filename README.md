@@ -9,3 +9,4 @@
 ## 8. Sentiment analysis on blog posts using NLP (https://github.com/nitinkumar018/Project-Sentiment-analysis-on-blog-posts-using-NLP)
 ## 9. Recommendation System using cosine similarity (https://github.com/nitinkumar018/Project-Recommendation-System_Cosine-Similarity)
 ## 10. Time series analysis to forecast the sales (https://github.com/nitinkumar018/Project-Sales-forecasting-using-Exponential-smoothing-and-ARIMA)
+## 11. Mini Project: Run an LLM model locally on your laptop using Ollama (https://github.com/nitinkumar018/LLM-deepseek-r1-using-Ollama) 
