@@ -1,4 +1,7 @@
-# Data Science Projects:
+# Data Science Projects
+## I have completed 14 data science projects covering various domains, including Machine Learning, Deep Learning, and AI. These projects demonstrate my expertise in model development, and real-world problem-solving.
+
+# List of Projects
 ## A machine learning project for Phishing Website Detection using classification algorithms like Neural Networks, Support Vector Machines (SVM), and Random Forests and deploy it using flask (https://github.com/nitinkumar018/Detection-of-Phishing-Websites-Using-ML)
 ## Microsoft Autogen Multi-Agent System with Local LLM & RAG and deploy it using flask (https://github.com/nitinkumar018/AutoGen)
 ## Build an advanced Rasa chatbot with ChatGPT-4 (https://github.com/nitinkumar018/Advanced-Rasa-chatbot-with-ChatGPT)
